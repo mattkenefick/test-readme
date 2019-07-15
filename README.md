@@ -22,9 +22,11 @@
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/polymermallard)
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mattkenefick.svg?label=MattKenefick&style=social">
 
-<p align="center">
-    <h3 align="center"><a href="https://www.polymermallard.com">View Example</a></h3>
-</p>
+<h3 align="center">
+    <a href="https://www.polymermallard.com">View Demo</a>
+    /
+    <a href="https://www.polymermallard.com">View Archive</a>
+</h3>
 
 
 
