@@ -19,6 +19,8 @@
     <a href="https://www.polymermallard.com">View Archive</a>
 </h3>
 
+<img src="docs/spacer.gif" height="90" />
+
 ![Last version](https://img.shields.io/github/tag/mattkenefick/electron-docking.svg?style=flat-square)
 [![Dependency status](https://img.shields.io/david/mattkenefick/electron-docking.svg?style=flat-square)](https://david-dm.org/mattkenefick/electron-docking)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/mattkenefick/electron-docking.svg?style=flat-square)](https://david-dm.org/mattkenefick/electron-docking#info=devDependencies)
