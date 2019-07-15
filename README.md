@@ -6,9 +6,9 @@
         width="90"
         vspace="30" />
 
-        ┌─┐┌─┐┌┬┐┌┐ ┌─┐  v1.0.0
-        ┌─┘│ ││││├┴┐│ │
-        └─┘└─┘┴ ┴└─┘└─┘
+    ┌─┐┬─┐┌─┐┌┬┐┌─┐┌┬┐┬ ┬┌─┐┌─┐  ┌─┐┌─┐┌┬┐┌┐ ┌─┐  v1.0.0
+    ├─┘├┬┘│ │ │ │ │ │ └┬┘├─┘├┤   ┌─┘│ ││││├┴┐│ │
+    ┴  ┴└─└─┘ ┴ └─┘ ┴  ┴ ┴  └─┘  └─┘└─┘┴ ┴└─┘└─┘
 </div>
 
 > Fusce vel pharetra ligula, sed cursus leo. Vivamus dictum orci erat. Sed commodo auctor ipsum, ut tincidunt libero mollis quis. Vestibulum elit nunc, tempus in finibus eget, iaculis vitae tortor. Sed convallis malesuada ex nec volutpat.
