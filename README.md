@@ -23,7 +23,7 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mattkenefick.svg?label=MattKenefick&style=social">
 
 <p align="center">
-    <a href="https://www.polymermallard.com" size="50"><h3>View Example</h3></a>
+    <h3 align="center"><a href="https://www.polymermallard.com">View Example</a></h3>
 </p>
 
 
